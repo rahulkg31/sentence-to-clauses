@@ -1,2 +1,16 @@
-Mary and Samantha arrived at the bus station early but waited until noon for the bus.
+///////////////////////////////// works for following sentences ////////////////////////////////////
+The dog went to the county fair.
+he plays cricket but does not play hockey.
 Joe waited for the train, but the train was late.
+I can’t believe how fast the dog ran to the county fair.
+Joe realized that the train was late while he waited at the train station.
+Mary and Samantha arrived at the bus station early but waited until noon for the bus.
+Mary and Samantha left on the bus before I arrived, so I did not see them at the bus station.
+Because Mary and Samantha arrived at the bus station before noon, I did not see them at the station.
+Mary and Samantha realized that Joe was waiting at the train station after they left on the bus.
+I looked for Mary and Samantha at the bus station, but they arrived at the station before noon and left on the bus before I arrived.
+
+
+//////////////////////////////// fails for following sentences ///////////////////////////////////////
+Every night the office is vacuumed and dusted by the cleaning crew.
+Born in Haverfordwest, Wales to English parents, he first caught the public eye at the age of 13, when he was cast in the starring role of Steven Spielberg's Empire of the Sun.
