@@ -4,7 +4,7 @@ A python implementation of extracting clauses from a sentence.
 ## Example
 Example of sentences and their clauses.
 | Sentence | Clauses |
-| ------ | ------ |
+|:--- |:--- |
 | The dog went to the county fair. | ['The dog went to the county fair'] |
 | He plays cricket but does not play hockey. | ['He plays cricket', 'He does not play hockey'] |
 | Joe waited for the train, but the train was late. | ['Joe waited for the train', 'the train was late'] |
