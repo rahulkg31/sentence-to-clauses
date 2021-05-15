@@ -17,9 +17,9 @@ Mary and Samantha arrived at the bus station early but waited until noon for the
 The project requires Python 3, Nltk and CoreNLP.
 
 ## Future
-Can use other parser like Berkeley parser and compare the results. 
+We can use other parser like Berkeley parser and compare the results. We can also add more patterns to handle complex sentences.
 
-Note:- Works only for simple sentences. Can not parse the complex sentence structures.
+Note:- This is a little R&D, I was doing on my part, So it's not a full flegded project and works only for simple sentences and can not parse the complex sentence structures.
 
 ## License
 The [MIT License][license] - Copyright (c) 2018 Rahul Kumar Gond
